@@ -19,7 +19,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Bazaar.com",
-  description: "Developed By Saim Amjad",
+  description: "Developed By Muhammad Talha",
 };
 
 export default function RootLayout({
